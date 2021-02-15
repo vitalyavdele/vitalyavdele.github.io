@@ -132,7 +132,7 @@ Intro
 
 .intro {
 	color: #ffffff;
-	background: url(../img/background-1.jpg) top center no-repeat;
+	background: url(../background-1.jpg) top center no-repeat;
 }
 
 .intro h2 {
@@ -192,7 +192,7 @@ Main Form
 
 .submit-arrow {
 	color: #ffffff;
-	background: url(../img/arrow-orange.png) top right no-repeat;
+	background: url(../arrow-orange.png) top right no-repeat;
 }
 
 .submit-arrow span {
@@ -224,7 +224,7 @@ Thanks Popup
 }
 
 .thanks-popup .thanks-heading {
-	background: url(../img/thanks-heading-background-1.jpg) center center no-repeat;
+	background: url(../thanks-heading-background-1.jpg) center center no-repeat;
 }
 
 .thanks-popup button.mfp-close:hover {
@@ -302,7 +302,7 @@ Bottom CTA
 ================================================================== */
 
 .bottom-cta {
-	background: url(../img/background-1.jpg) center center no-repeat;
+	background: url(../background-1.jpg) center center no-repeat;
 }
 
 .bottom-cta h2 {
